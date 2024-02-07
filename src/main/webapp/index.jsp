@@ -4,5 +4,6 @@
 <p>In this section we deploy java application manually</p>
 <a href="About.jsp">GoToAbout</a>
 <a href="service.jsp">Service file</a>
+<a href="contact.jsp"> contact us</a>
 </body>
 </html>
